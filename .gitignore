@@ -1,5 +1,9 @@
 # virtual env
 *venv
+*idea
 
 # compiled bytecode files
 *__pycache__
+
+
+*ipynb_checkpoints
